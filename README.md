@@ -29,4 +29,4 @@ This project enables users to generate high-quality, AI-powered images from text
 - **Interface**: ComfyUI (Visual Python GUI)
 - **Languages**: Python
 - **Libraries**: diffusers, torch, transformers
-- **Platform**: Localhost (can be shared via Ngrok or deployed to RunPod)
+
